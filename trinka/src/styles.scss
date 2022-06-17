@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   body {
+    font-family: 'Open Sans', sans-serif;
+   }
+   .row{
+    margin-left: 0px;
+    margin-right: 0px;
+   }
+   .btn{
+    border-radius: 6px;
+    padding: 6px 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+   }
+   .btnCurv{
+    border-radius: 57px;
+    padding: 20px 40px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+   }
+   .filled{
+    background: #7A28A0;
+    border: 1px solid #7A28A0;
+    color: #fff;
+   }
+   .unfilled{
+    background: #fff;
+    border: 1px solid #7A28A0;
+    color: #7A28A0;
+   }
+   
